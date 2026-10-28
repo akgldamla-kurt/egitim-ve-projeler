@@ -1,1 +1,1 @@
-# egitim-ve-projeler
+01-ubuntu-kurulumu/ 
