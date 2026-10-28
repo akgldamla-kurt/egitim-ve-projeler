@@ -1,1 +1,1 @@
-# e-itim-ve-projeler
+# egitim-ve-projeler
