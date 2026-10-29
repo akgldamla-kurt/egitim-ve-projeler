@@ -1,1 +1,1 @@
-01-ubuntu-kurulumu/ 
+
